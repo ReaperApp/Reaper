@@ -2,7 +2,7 @@
   {
     "name": "Schedule I",
     "description": "You’re a small-time drug dealer rolling into a fresh town with no cash, no product and no connections. Build your drug empire from the ground up in the grungy west-coast city of Hyland Point. Contend against intensifying law enforcement and deadly cartel competitors to expand your empire and reach the peak of the underworld.",
-    "current_version": "0.3.4f8",
+    "current_version": "v0.3.4f8",
     "download_link": "",
     "steam_rip_link": "https://steamrip.com/schedule-i-free-download/",
     "thumbnail_image": "https://8za0igansw.ufs.sh/f/p88fEwreLBm2d19Mhitjyi95P4ZsQakcfguhwpGn8CmUXeRI",
@@ -20,7 +20,7 @@
   {
     "name": "R.E.P.O",
     "description": "R.E.P.O. is an online co-op horror game for up to 6 players featuring physics-based gameplay, proximity voice chat, and dangerous monsters. Tasked by a mysterious AI, you must retrieve valuable items from haunted ruins, using teamwork and a physics-based tool. Monsters and objects alike obey the laws of gravity, so move carefully — from heavy pianos to fragile ceramics. Earn cash to buy upgrades and weapons from your cold-hearted creator.",
-    "current_version": "0.1.2",
+    "current_version": "v0.1.2",
     "download_link": "",
     "steam_rip_link": "https://steamrip.com/r-e-p-o-free-download/",
     "thumbnail_image": "https://8za0igansw.ufs.sh/f/p88fEwreLBm29a62jdQXJtzcSkbrQ4P6qgCW0xyN3Mdouwml",
@@ -34,5 +34,16 @@
         "download_link": ""
       }
     ]
+  },
+{
+    "name": "Lethal Company",
+    "description": "You’re a contracted worker for the Company, scavenging scrap from abandoned moons to meet profit quotas. Use your earnings to unlock riskier moons, upgrade your gear, or decorate your ship. Explore wild landscapes, scan creatures for your bestiary, and search crumbling ruins—just don’t miss the quota. Work with your crew using the ship’s radar and tools like lights, walkie talkies, and stun grenades. Stay sharp at night: dangers rise fast, and teamwork is your only way out.",
+    "current_version": "v69",
+    "download_link": "",
+    "steam_rip_link": "https://steamrip.com/lethal-company-free-download-l1/",
+    "thumbnail_image": "https://8za0igansw.ufs.sh/f/p88fEwreLBm2QIJRdbVTEkbWwH2qmsvJLt5Bi3ZnNcxrhA8a",
+    "profile_image": "https://8za0igansw.ufs.sh/f/p88fEwreLBm2Cz5rcJjr5Aqjkgwi8tE6IFoYH4XnNbJDuOeM",
+    "mods_available": true,
+    "previous_versions": []
   }
 ]

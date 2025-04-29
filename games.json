@@ -1,252 +1,36 @@
 [
   {
-    "name": "CS:GO",
-    "description": "Counter-Strike: Global Offensive (CS:GO) is a multiplayer first-person shooter developed by Valve and Hidden Path Entertainment. The game pits two teams against each other: the Terrorists and the Counter-Terrorists.",
-    "current_version": "1.38.2.0",
+    "name": "Schedule I",
+    "description": "You’re a small-time drug dealer rolling into a fresh town with no cash, no product and no connections. Build your drug empire from the ground up in the grungy west-coast city of Hyland Point. Contend against intensifying law enforcement and deadly cartel competitors to expand your empire and reach the peak of the underworld.",
+    "current_version": "0.3.4f8",
     "download_link": "",
-    "steam_rip_link": "https://steamrip.com/counter-strike-global-offensive/",
-    "thumbnail_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
-    "profile_image": "",
-    "mods_available": false,
+    "steam_rip_link": "https://steamrip.com/schedule-i-free-download/",
+    "thumbnail_image": "https://steamrip.com/wp-content/uploads/2025/03/schedule-1-preinstalled-steamrip.jpg",
+    "profile_image": "https://steamrip.com/wp-content/uploads/2025/03/schedule-1-portrait-steamrip.jpg.webp",
+    "mods_available": true,
     "previous_versions": [
       {
-        "description": "Fixed multiplayer connection issues and improved performance on low-end systems. Added support for new DLC content.",
-        "version": "1.35.2.0",
-        "date": "Jan 15, 2023",
-        "download_link": ""
-      },
-      {
-        "description": "Stability improvements and bug fixes. Added new weapons and character customizations.",
-        "version": "1.32.1.0",
-        "date": "Oct 22, 2022",
-        "download_link": ""
-      },
-      {
-        "description": "Major update with new game modes and maps. Fixed several critical bugs and exploits.",
-        "version": "1.28.4.0",
-        "date": "Aug 5, 2022",
-        "download_link": ""
-      },
-      {
-        "description": "Performance optimizations and UI improvements. Added new achievements and challenges.",
-        "version": "1.25.1.0",
-        "date": "May 18, 2022",
-        "download_link": ""
-      },
-      {
-        "description": "Updated game engine and core mechanics. Added support for user-created mods and content.",
-        "version": "1.20.3.0",
-        "date": "Mar 3, 2022",
+        "description": "Pawn Shop, Fancy Stuff, and More",
+        "version": "0.3.4",
+        "date": "April 10, 2025",
         "download_link": ""
       }
     ]
   },
   {
-    "name": "CS:GO",
-    "description": "Counter-Strike: Global Offensive (CS:GO) is a multiplayer first-person shooter developed by Valve and Hidden Path Entertainment. The game pits two teams against each other: the Terrorists and the Counter-Terrorists.",
-    "current_version": "1.38.2.0",
+    "name": "R.E.P.O",
+    "description": "R.E.P.O. is an online co-op horror game featuring physics, proximity voice chat and scary monsters. You and up to 5 friends can venture into terrifying environments to extract valuable objects using your physics-based grabbing tool. Even the monsters are affected by Newton’s law of gravity Under the employ of a mysterious computer intelligence. Visions of Mana\n\nIt is your job to locate, transport and extract valuable items from the haunted remains of a long lost humanity. Transport anything from heavy pianos to fragile ceramics and use teamwork to make sure that the precious cargo will safely reach its destination. Robotic enhancements increase your chances Use your hard earned cash [SURPLUS] to purchase upgrades and weapons from your heartless [GENEROUS] creator.",
+    "current_version": "0.1.2",
     "download_link": "",
-    "steam_rip_link": "https://steamrip.com/counter-strike-global-offensive/",
-    "thumbnail_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
+    "steam_rip_link": "https://steamrip.com/r-e-p-o-free-download/",
+    "thumbnail_image": "https://steamrip.com/wp-content/uploads/2025/02/repo-preinstalled-steamrip.jpg",
     "profile_image": "",
-    "mods_available": false,
+    "mods_available": true,
     "previous_versions": [
       {
         "description": "Fixed multiplayer connection issues and improved performance on low-end systems. Added support for new DLC content.",
         "version": "1.35.2.0",
         "date": "Jan 15, 2023",
-        "download_link": ""
-      },
-      {
-        "description": "Stability improvements and bug fixes. Added new weapons and character customizations.",
-        "version": "1.32.1.0",
-        "date": "Oct 22, 2022",
-        "download_link": ""
-      },
-      {
-        "description": "Major update with new game modes and maps. Fixed several critical bugs and exploits.",
-        "version": "1.28.4.0",
-        "date": "Aug 5, 2022",
-        "download_link": ""
-      },
-      {
-        "description": "Performance optimizations and UI improvements. Added new achievements and challenges.",
-        "version": "1.25.1.0",
-        "date": "May 18, 2022",
-        "download_link": ""
-      },
-      {
-        "description": "Updated game engine and core mechanics. Added support for user-created mods and content.",
-        "version": "1.20.3.0",
-        "date": "Mar 3, 2022",
-        "download_link": ""
-      }
-    ]
-  },
-  {
-    "name": "Minecraft",
-    "description": "Minecraft is a sandbox video game developed by Mojang Studios. Players can build with a variety of different blocks in a 3D procedurally generated world, requiring creativity from players.",
-    "current_version": "1.20.1",
-    "download_link": "",
-    "steam_rip_link": "https://steamrip.com/minecraft/",
-    "thumbnail_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/92/header.jpg",
-    "profile_image": "",
-    "mods_available": false,
-    "previous_versions": [
-      {
-        "description": "Fixed multiplayer connection issues and improved performance on low-end systems. Added support for new DLC content.",
-        "version": "1.35.2.0",
-        "date": "Jan 15, 2023",
-        "download_link": ""
-      },
-      {
-        "description": "Stability improvements and bug fixes. Added new weapons and character customizations.",
-        "version": "1.32.1.0",
-        "date": "Oct 22, 2022",
-        "download_link": ""
-      },
-      {
-        "description": "Major update with new game modes and maps. Fixed several critical bugs and exploits.",
-        "version": "1.28.4.0",
-        "date": "Aug 5, 2022",
-        "download_link": ""
-      },
-      {
-        "description": "Performance optimizations and UI improvements. Added new achievements and challenges.",
-        "version": "1.25.1.0",
-        "date": "May 18, 2022",
-        "download_link": ""
-      },
-      {
-        "description": "Updated game engine and core mechanics. Added support for user-created mods and content.",
-        "version": "1.20.3.0",
-        "date": "Mar 3, 2022",
-        "download_link": ""
-      }
-    ]
-  },
-  {
-    "name": "PUBG",
-    "description": "PlayerUnknown's Battlegrounds (PUBG) is an online multiplayer battle royale game. Players are dropped into a wide, open area, and they must fight to the death - all while the battlefield shrinks.",
-    "current_version": "25.1.8.2",
-    "download_link": "",
-    "steam_rip_link": "https://steamrip.com/pubg-battlegrounds/",
-    "thumbnail_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
-    "profile_image": "",
-    "mods_available": false,
-    "previous_versions": [
-      {
-        "description": "Fixed multiplayer connection issues and improved performance on low-end systems. Added support for new DLC content.",
-        "version": "1.35.2.0",
-        "date": "Jan 15, 2023",
-        "download_link": ""
-      },
-      {
-        "description": "Stability improvements and bug fixes. Added new weapons and character customizations.",
-        "version": "1.32.1.0",
-        "date": "Oct 22, 2022",
-        "download_link": ""
-      },
-      {
-        "description": "Major update with new game modes and maps. Fixed several critical bugs and exploits.",
-        "version": "1.28.4.0",
-        "date": "Aug 5, 2022",
-        "download_link": ""
-      },
-      {
-        "description": "Performance optimizations and UI improvements. Added new achievements and challenges.",
-        "version": "1.25.1.0",
-        "date": "May 18, 2022",
-        "download_link": ""
-      },
-      {
-        "description": "Updated game engine and core mechanics. Added support for user-created mods and content.",
-        "version": "1.20.3.0",
-        "date": "Mar 3, 2022",
-        "download_link": ""
-      }
-    ]
-  },
-  {
-    "name": "GTA V",
-    "description": "Grand Theft Auto V is an action-adventure game developed by Rockstar North. The game is played from either a third-person or first-person perspective and its world is navigated on foot or by vehicle.",
-    "current_version": "1.0.2944.0",
-    "download_link": "",
-    "steam_rip_link": "https://steamrip.com/grand-theft-auto-v/",
-    "thumbnail_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
-    "profile_image": "",
-    "mods_available": false,
-    "previous_versions": [
-      {
-        "description": "Fixed multiplayer connection issues and improved performance on low-end systems. Added support for new DLC content.",
-        "version": "1.35.2.0",
-        "date": "Jan 15, 2023",
-        "download_link": ""
-      },
-      {
-        "description": "Stability improvements and bug fixes. Added new weapons and character customizations.",
-        "version": "1.32.1.0",
-        "date": "Oct 22, 2022",
-        "download_link": ""
-      },
-      {
-        "description": "Major update with new game modes and maps. Fixed several critical bugs and exploits.",
-        "version": "1.28.4.0",
-        "date": "Aug 5, 2022",
-        "download_link": ""
-      },
-      {
-        "description": "Performance optimizations and UI improvements. Added new achievements and challenges.",
-        "version": "1.25.1.0",
-        "date": "May 18, 2022",
-        "download_link": ""
-      },
-      {
-        "description": "Updated game engine and core mechanics. Added support for user-created mods and content.",
-        "version": "1.20.3.0",
-        "date": "Mar 3, 2022",
-        "download_link": ""
-      }
-    ]
-  },
-  {
-    "name": "Apex Legends",
-    "description": "Apex Legends is a free-to-play battle royale-hero shooter game. Players form into two or three-player squads and select pre-designed characters with distinctive abilities.",
-    "current_version": "3.0.27.38",
-    "download_link": "",
-    "steam_rip_link": "https://steamrip.com/apex-legends/",
-    "thumbnail_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg",
-    "profile_image": "",
-    "mods_available": false,
-    "previous_versions": [
-      {
-        "description": "Fixed multiplayer connection issues and improved performance on low-end systems. Added support for new DLC content.",
-        "version": "1.35.2.0",
-        "date": "Jan 15, 2023",
-        "download_link": ""
-      },
-      {
-        "description": "Stability improvements and bug fixes. Added new weapons and character customizations.",
-        "version": "1.32.1.0",
-        "date": "Oct 22, 2022",
-        "download_link": ""
-      },
-      {
-        "description": "Major update with new game modes and maps. Fixed several critical bugs and exploits.",
-        "version": "1.28.4.0",
-        "date": "Aug 5, 2022",
-        "download_link": ""
-      },
-      {
-        "description": "Performance optimizations and UI improvements. Added new achievements and challenges.",
-        "version": "1.25.1.0",
-        "date": "May 18, 2022",
-        "download_link": ""
-      },
-      {
-        "description": "Updated game engine and core mechanics. Added support for user-created mods and content.",
-        "version": "1.20.3.0",
-        "date": "Mar 3, 2022",
         "download_link": ""
       }
     ]

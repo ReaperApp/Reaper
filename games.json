@@ -9,7 +9,7 @@
     "profile_image": "https://8za0igansw.ufs.sh/f/p88fEwreLBm2K72crF8VzRJMHDYiC0f5rwk9XWS1IKoc6xpg",
     "mods_available": true,
     "date_uploaded": "5/1/2025",
-    "previous_versions": [
+    "update_logs": [
       {
         "description": "Pawn Shop, Fancy Stuff, and More",
         "version": "0.3.4",
@@ -27,7 +27,7 @@
     "profile_image": "https://8za0igansw.ufs.sh/f/p88fEwreLBm23HDKoLJOPBQWZ5szva6TGYr2kh4p3JAjqSNU",
     "mods_available": true,
     "date_uploaded": "5/11/2025",
-    "previous_versions": [
+    "update_logs": [
       {
         "description": "Fixed multiplayer connection issues and improved performance on low-end systems. Added support for new DLC content.",
         "version": "1.35.2.0",
@@ -45,6 +45,6 @@
     "profile_image": "https://8za0igansw.ufs.sh/f/p88fEwreLBm2Cz5rcJjr5Aqjkgwi8tE6IFoYH4XnNbJDuOeM",
     "mods_available": true,
     "date_uploaded": "5/11/2025",
-    "previous_versions": []
+    "update_logs": []
   }
 ]
